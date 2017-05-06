@@ -2,7 +2,9 @@ helpful_mac_apps
 ======================
 Helpful mini scripts and apps for Mac OS X.
 
-These scripts are **workflows** that add right-click services to the Mac OS X Finder. I use them myself.
+# Workflows
+
+Automator **workflows** add right-click services to the Mac OS X Finder. I use them myself.
 
 ### Convert to HTML.workflow.zip
 
