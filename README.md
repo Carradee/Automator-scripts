@@ -18,8 +18,7 @@ This workflow converts a document to HTML via textutil. When used, the Finder wi
 
 Ever need to just remove spaces from the name of one or more files? Install this, and you can replace all spaces with underscores with just a right-click.
 
-About Mac OS X Services/Workflows:
-======================
+## About Mac OS X Services/Workflows:
 ### How to Install
 1. Download the service file and unpackage the ZIP archive.
 2. Double-click on the downloaded and unpackaged file. The Finder will ask you "Do you want to install the “SERVICE_NAME” service?"
